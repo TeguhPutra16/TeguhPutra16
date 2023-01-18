@@ -30,8 +30,8 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="golang" height="25" src="images/golang.svg"></code>
-  <code><img title="Echo height="25" src="images/echo.png"></code>
+  <code><img title="golang" height="25" src="images/golang.png"></code>
+  <code><img title="Echo" height="25" src="images/echo.png"></code>
   <code><img title="Gorm" height="25" src="images/gorm.png"></code>
   <code><img title="docker" height="25" src="images/docker.png"></code>
   <code><img title="swagger" height="25" src="images/swagger.png"></code> 
