@@ -21,7 +21,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://github.com/TeguhPutra16/TeguhPutra16/issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: teguhbutarbutar160798@gmail.com">teguhbutarbutar160798@gmail.com</a>
 </p>
